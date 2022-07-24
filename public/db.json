@@ -1,0 +1,52 @@
+{
+  "movies": [
+    {
+      "mName": "charliee 777",
+      "hero": "rakshith",
+      "genere": "drama",
+      "poster": "https://wallpapercave.com/wp/wp8700492.jpg",
+      "trailer": "",
+      "id": 1
+    },
+    {
+      "mName": "vikranth rona",
+      "hero": "sudeep",
+      "genere": "action",
+      "poster": "https://www.filmibeat.com/img/190x100x237/popcorn/movie_posters/vikrantrona-20210410192356-14800.jpg",
+      "trailer": "",
+      "id": 2
+    },
+    {
+      "mName": "Avathar pursha",
+      "hero": "sharan",
+      "genere": "comedy",
+      "poster": "https://hindiwebstory.com/wp-content/uploads/2022/05/images-7-212x300.jpeg",
+      "trailer": "",
+      "id": 3
+    },
+    {
+      "mName": "KGF-2",
+      "hero": "Yash",
+      "genere": "Action",
+      "poster": "https://c.ndtvimg.com/2022-01/m6urjsug_yash-_625x300_08_January_22.jpg",
+      "trailer": "",
+      "id": 4
+    },
+    {
+      "mName": "Uri the surgical strike",
+      "hero": "Vicky",
+      "genere": "patriotism ",
+      "poster": "https://2.bp.blogspot.com/-Ekp3ehJEpVA/XDbLbNUOjvI/AAAAAAAAJCo/pZjBIZeO9LcLg3eohT2m9EA_3V80E2c0gCLcBGAs/s1600/uri-the-surgical-strike-movie-poster.jpg",
+      "trailer": "",
+      "id": 8
+    },
+    {
+      "mName": "Bahubali",
+      "hero": "Prabhas",
+      "genere": "Historical drama",
+      "poster": "https://flxt.tmsimg.com/assets/p11546593_p_v8_af.jpg",
+      "trailer": "",
+      "id": 9
+    }
+  ]
+}
